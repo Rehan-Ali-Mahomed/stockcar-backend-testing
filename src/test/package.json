@@ -1,0 +1,17 @@
+{
+  "name": "stockcar-app-test-backend",
+  "version": "1.0",
+  "description": "This program is aimed to test the backend (API) of a web application named StockCar.",
+  "scripts": {
+    "test": "jest"
+  },
+  "author": "Rehan ALI MAHOMED",
+  "license": "MIT",
+  "devDependencies": {
+    "jest": "^29.7.0"
+  },
+  "dependencies": {
+    "frisby": "^2.1.3",
+    "joi": "^17.11.0"
+  }
+}
